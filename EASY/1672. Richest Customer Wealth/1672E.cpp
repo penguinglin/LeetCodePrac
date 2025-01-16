@@ -15,6 +15,7 @@ using namespace std;
 // n == accounts[i].length
 // 1 <= m, n <= 50
 // 1 <= accounts[i][j] <= 100
+// sol 2 : using accumulate, max to improve the code
 
 class Solution
 {
@@ -22,13 +23,12 @@ public:
   int maximumWealth(vector<vector<int>> &accounts)
   {
     int maxWealth = 0, sum;
-    for (int i = 0; i < accounts.size(); i++)
+    for (const auto &customer : accounts)
     {
-      sum = 0;
-      for (int j = 0; j < accounts[i].size(); j++)
-        sum += accounts[i][j];
-      if (sum > maxWealth)
-        maxWealth = sum;
+      // accumulate : sum of the elements in the range [first, last)
+      int wealth = accumulate(customer.begin(), customer.end(), 0);
+      // max : return the largest of the two values
+      maxWealth = max(maxWealth, wealth);
     }
 
     return maxWealth;
