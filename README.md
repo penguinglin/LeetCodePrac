@@ -2,9 +2,7 @@
 
 ## Explorer
 
-`Extra`: the more perfect sol to the same problem(may have more than one sol)
-
-> 2025.1.16
+`Extra`: more sol to the same problem(may have more than one sol)
 
 | Index | LeetCode Title | Mark | Difficulty | Solution Language | Others |
 | --- | --- | --- | --- | --- | --- |
@@ -20,4 +18,3 @@
 | 009 | ---. --- | --- | --- | `C`, `Cpp` | `Extra`: --- |
 | 010 | ---. --- | --- | --- | `C`, `Cpp` | `Extra`: --- |
 
-> Start from `2025.1.16`
