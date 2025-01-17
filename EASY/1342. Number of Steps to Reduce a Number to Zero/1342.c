@@ -10,4 +10,13 @@ In one step, if the current number is even, you have to divide it by 2, otherwis
 
 int numberOfSteps(int num)
 {
+  int steps=0;
+  while(num>0){
+    if(num%2 == 0)
+      num/=2;
+    else
+      num--;
+    steps++;
+  }
+  return steps;
 }
