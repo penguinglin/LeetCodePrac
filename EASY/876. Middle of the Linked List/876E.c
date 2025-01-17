@@ -22,29 +22,17 @@ struct ListNode {
     struct ListNode *next;
 };
 
-int CountLength(struct ListNode* head) {
-    int count = 0;
-    struct ListNode* tmp = head;
-    while(tmp != NULL) {
-        count++;
-        tmp = tmp->next;
-    }
-    return count;
-}
-
+//  use the fast-slow solution to find the middle
 struct ListNode* middleNode(struct ListNode* head) {
-    struct ListNode* tmp = head;
-    /*
-    count the step we need to move:
-      *even length: /2
-      *odd length: /2
-    (the middle node is length/2+1 node, need to move length/2 steps)
-    */
-    int count = CountLength(head)/2;
+    if (head == NULL) return NULL;
+    struct ListNode* fast = head;
+    struct ListNode* slow = head;
 
-    while(count){
-        tmp = tmp->next;
-        count--;
-    }
-    return tmp;
+    // fast moves 2 steps, slow moves 1 step
+    // we must carefully check the NULL case
+    while (fast != NULL && fast->next != NULL) {
+        fast = fast->next->next;
+        slow = slow->next;
+    }   
+    return slow;
 }
