@@ -19,7 +19,7 @@ This README details my journey of practicing LeetCode problems. Starting with th
 
 ## [ExplorerTech](/ExplorerTech/)
 
-## PracticeI
+## Practice I
 
 `Extra`: more sol to the same problem
 
