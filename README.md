@@ -19,15 +19,20 @@ This README details my journey of practicing LeetCode problems. Starting with th
 
 ## [ExplorerTech](/ExplorerTech/)
 
-## Practice I
+## Practice
 
-`Extra`: more sol to the same problem
+> some problem will add an Readme:
+>  * Explain the logic or strategy used to solve the problem.
+>  * Time Complexity: Discuss how the runtime scales with input size.
+>  * Space Complexity: Discuss how the space usage scales with input size.
+>  * Highlight any edge cases considered, such as empty inputs or extreme values.
 
 | Index | LeetCode Title | Mark | Difficulty | Solution Language | Others |
 | ----- | -------------- | ---- | ---------- | ----------------- | ------ |
 | 000 | [1. Two Sum](/EASY/1.%20Two%20Sum/)  | `Hash table`, `Array` | [Easy](/EASY/) | [`C`](/EASY/1.%20Two%20Sum/1.c), [`C++`](/EASY/1.%20Two%20Sum/1.cpp) | `Extra`: [`C`](/EASY/1.%20Two%20Sum/1E.c) |
 | 001 | [2. Add Two Numbers](/MEDIUM/2.%20Add%20Two%20Numbers/)  | `Linked List`, `Math`, `Recursion` | [Medium](/Medium/) |  [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2.cpp) | `Extra`: [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.cpp) |
-| 002 | ---  | --- | --- | `C`, `C++` | --- |
+| 002 | [3. Longest Substring Without Repeating Characters](/MEDIUM/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
+  | `Hash Table`, `String`, `Sliding Window` | Medium | [`C`](/MEDIUM/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.c), [`C++`](/MEDIUM/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.cpp) | --- |
 | 003 | ---  | --- | --- | `C`, `C++` | --- |
 | 004 | ---  | --- | --- | `C`, `C++` | --- |
 | 005 | ---  | --- | --- | `C`, `C++` | --- |
