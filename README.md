@@ -18,3 +18,20 @@ This README details my journey of practicing LeetCode problems. Starting with th
 | 005 | [383. Ransom Note](/EASY/383.%20Ransom%20Note/) | `Hash`, `Table`, `String Counting` | [Easy](/EASY/) | [`C`](/EASY/383.%20Ransom%20Note/383.c), [`Cpp`](/EASY/383.%20Ransom%20Note/383.cpp) | `Extra`: [`Cpp`](/EASY/383.%20Ransom%20Note/383E.cpp) |
 
 ## [ExplorerTech](/ExplorerTech/)
+
+## PracticeI
+
+`Extra`: more sol to the same problem
+
+| Index | LeetCode Title | Mark | Difficulty | Solution Language | Others |
+| ----- | -------------- | ---- | ---------- | ----------------- | ------ |
+| 000 | [1. Two Sum](/EASY/1.%20Two%20Sum/)  | `Hash table`, `Array` | Easy | [`C`](/EASY/1.%20Two%20Sum/1.c), [`C++`](/EASY/1.%20Two%20Sum/1.cpp) | `Extra`: [`C`](/EASY/1.%20Two%20Sum/1E.c) |
+| 001 | [2. Add Two Numbers](/MEDIUM/2.%20Add%20Two%20Numbers/)  | Medium | `Linked List`, `Math`, `Recursion` | [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2.cpp) | `Extra`: [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.cpp) |
+| 002 | ---  | --- | --- | `C`, `C++` | --- |
+| 003 | ---  | --- | --- | `C`, `C++` | --- |
+| 004 | ---  | --- | --- | `C`, `C++` | --- |
+| 005 | ---  | --- | --- | `C`, `C++` | --- |
+| 006 | ---  | --- | --- | `C`, `C++` | --- |
+| 007 | ---  | --- | --- | `C`, `C++` | --- |
+| 008 | ---  | --- | --- | `C`, `C++` | --- |
+| 009 | ---  | --- | --- | `C`, `C++` | --- |
