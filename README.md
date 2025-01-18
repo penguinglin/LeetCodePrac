@@ -26,7 +26,7 @@ This README details my journey of practicing LeetCode problems. Starting with th
 | Index | LeetCode Title | Mark | Difficulty | Solution Language | Others |
 | ----- | -------------- | ---- | ---------- | ----------------- | ------ |
 | 000 | [1. Two Sum](/EASY/1.%20Two%20Sum/)  | `Hash table`, `Array` | [Easy](/EASY/) | [`C`](/EASY/1.%20Two%20Sum/1.c), [`C++`](/EASY/1.%20Two%20Sum/1.cpp) | `Extra`: [`C`](/EASY/1.%20Two%20Sum/1E.c) |
-| 001 | [2. Add Two Numbers](/MEDIUM/2.%20Add%20Two%20Numbers/)  | [Medium](/Medium/) | `Linked List`, `Math`, `Recursion` | [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2.cpp) | `Extra`: [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.cpp) |
+| 001 | [2. Add Two Numbers](/MEDIUM/2.%20Add%20Two%20Numbers/)  | `Linked List`, `Math`, `Recursion` | [Medium](/Medium/) |  [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2.cpp) | `Extra`: [`C`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.c), [`C++`](/MEDIUM/2.%20Add%20Two%20Numbers/2E.cpp) |
 | 002 | ---  | --- | --- | `C`, `C++` | --- |
 | 003 | ---  | --- | --- | `C`, `C++` | --- |
 | 004 | ---  | --- | --- | `C`, `C++` | --- |
